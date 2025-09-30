@@ -1,1 +1,3 @@
 # VOIS_AICTE_Oct2025_YBhavanaSree
+This project explores the Airbnb Open Data to uncover actionable insights that help hosts optimize pricing, availability, and guest satisfaction. Using Python and data visualization tools, it analyzes booking patterns, pricing strategies, guest preferences, and host performance across various property types and neighborhoods.
+The analysis includes segmentation, correlation studies, and predictive modeling to identify trends and behaviors that drive successful bookings. Ideal for hospitality professionals, data analysts, and platform designers, this project demonstrates how data-driven decisions can enhance service quality in the short-term rental market.
